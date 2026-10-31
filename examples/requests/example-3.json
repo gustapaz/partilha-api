@@ -1,0 +1,17 @@
+{
+  "units": 2,
+  "participants": [
+    {
+      "id": "beta",
+      "weight": 1
+    },
+    {
+      "id": "alfa",
+      "weight": 1
+    },
+    {
+      "id": "gama",
+      "weight": 1
+    }
+  ]
+}

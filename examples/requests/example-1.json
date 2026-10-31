@@ -1,0 +1,17 @@
+{
+  "units": 3,
+  "participants": [
+    {
+      "id": "a",
+      "weight": 5
+    },
+    {
+      "id": "b",
+      "weight": 3
+    },
+    {
+      "id": "c",
+      "weight": 2
+    }
+  ]
+}
